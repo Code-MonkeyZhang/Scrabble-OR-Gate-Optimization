@@ -1,2 +1,2 @@
 # Scrabble-OR-Gate-Optimization
-This project using Beautiful Soup and calculates the minimum and maximum OR gates needed to represent each word, optimizing for electronic storage efficiency.
+This repository hosts a unique project that utilizes Beautiful Soup (bs4) for web scraping all the words from https://scrabble.merriam.com/. The core functionality revolves around calculating the number of OR gates required to represent each word electronically. The objective is to identify the words that can be stored with the minimum and maximum number of OR gates, thus optimizing digital storage solutions for lexical data. This blend of web scraping, linguistic analysis, and electronic design principles offers insightful perspectives on hardware-efficient data representation.
